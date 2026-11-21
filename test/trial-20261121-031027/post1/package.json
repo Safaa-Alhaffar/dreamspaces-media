@@ -1,0 +1,81 @@
+{
+  "idea_title": "Damascene Courtyard House in Rose & Apricot",
+  "era": "Ottoman Damascene (Bayt Arabi), 18th century",
+  "room_focus": "macro_tour across five interconnected courtyard house spaces",
+  "inspiration": "The historic Ghouta oasis encircling Damascus was renowned for growing Rosa damascena alongside heritage apricot orchards, scenting the old city courtyards every spring.",
+  "palette": [
+    {
+      "name": "Apricot Flesh",
+      "hex": "#ECA376"
+    },
+    {
+      "name": "Damask Rose Petal",
+      "hex": "#D96B7B"
+    },
+    {
+      "name": "Sun-ripened Apricot",
+      "hex": "#CF6D38"
+    },
+    {
+      "name": "Alabaster Cream",
+      "hex": "#F4EDE2"
+    },
+    {
+      "name": "Ghouta Leaf",
+      "hex": "#607355"
+    }
+  ],
+  "shots": [
+    {
+      "name": "1-courtyard",
+      "prompt": "Vertical 4:5 establishing view of an authentic 18th-century Damascene courtyard house central courtyard open to the sky. Alternating horizontal bands of black basalt and pale limestone ablaq masonry form the surrounding two-story walls. In the center, an octagonal carved marble fountain gently spills water into a shallow basin. Climbing Damask rose bushes with fragrant dusty pink blooms scale stone pillars beside potted dwarf apricot trees in terracotta planters. Ornate wooden mashrabiya screens adorn the upper windows. Diffused midday sunlight at 5400 Kelvin casts soft shadows across the stone pavers. Captured with a 24mm wide lens at eye level, f/8, crisp architectural photography. Every arch rests firmly on carved limestone columns, with strictly authentic Syrian vernacular proportions."
+    },
+    {
+      "name": "2-iwan",
+      "prompt": "Vertical 4:5 interior view of a vaulted Syrian iwan facing an open courtyard. A monumental pointed arch with carved stone muqarnas frames the three-sided shaded hall. On the raised stone platform, a continuous low diwan is upholstered in rich dusty rose Damask silk and warm apricot velvet cushions with braided gold trim. Low octagonal walnut tables inlaid with mother-of-pearl hold hammered brass trays and copper rosewater sprinklers. Natural courtyard bounce light at 4800 Kelvin fills the vaulted space with gentle warmth. Shot on a 35mm lens from the courtyard threshold, waist level, f/5.6. Architectural stonework is perfectly load-bearing, arches grounded squarely on structural piers, with historically accurate Ottoman Syrian proportions."
+    },
+    {
+      "name": "3-qaa-hall",
+      "prompt": "Vertical 4:5 view inside a formal Damascene qaa reception hall. Elaborate ajami relief-painted wooden ceilings and wall panels display intricately gilded scrolling arabesques in muted apricot, dusty rose, and olive hues. High plaster qamariyya windows set with colored glass cast geometric pools of amber and rose daylight onto polished stone floors. A recessed wall niche displays antique ceramic vessels. Warm, filtered afternoon light at 4200 Kelvin streams through the colored clerestory apertures. Photographed with a 28mm architectural lens at eye level, f/8, crisp depth of field. All wooden paneling conforms flush to plumb masonry walls, preserving authentic late Ottoman Syrian spatial geometry."
+    },
+    {
+      "name": "4-upper-bedchamber",
+      "prompt": "Vertical 4:5 interior of an intimate upper-floor bedchamber in a Damascus bayt arabi. A large floor-to-ceiling carved cedar wood mashrabiya screen filters bright courtyard light into intricate geometric lattice shadows. The low daybed is dressed in natural ecru Syrian linen with woven striped apricot and rose petal silk throws. Built-in wall recesses feature painted ajami trim housing perfume flasks and books. Soft morning illumination at 5000 Kelvin passes through the timber lattice, illuminating dust motes. Captured on a 50mm lens at chest height, f/4, capturing tactile textures of hand-carved wood and woven textiles. All structural timber beams fit squarely into stone lintels with authentic vernacular joinery."
+    },
+    {
+      "name": "5-private-hammam",
+      "prompt": "Vertical 4:5 view of a private residential domed bathhouse inside a Syrian courtyard mansion. A shallow stone dome is pierced with circular convex glass bullseyes casting soft rose and amber light beams into the steamy interior. Waterproof polished limestone walls feature a decorative wainscot border of geometric tiles glazed in ripe apricot and rose tones. A carved marble washing basin sits against the wall beneath dual engraved brass faucets. Atmospheric humid daylight at 4500 Kelvin cuts through light rising vapor. Shot on a 35mm lens from the arched entrance, low angle, f/5.6. The dome rests securely upon structural pendentives over solid masonry walls, with fully functional, authentic historic proportions."
+    }
+  ],
+  "hooks": [
+    "Inside an 18th-century Damascus rose courtyard house",
+    "Damascene architecture painted in rose and apricot",
+    "Touring a hidden courtyard house in old Damascus"
+  ],
+  "reel_script": [
+    "0-3s: Sweeping view across the ablaq courtyard fountain framed in blooming Damask roses.",
+    "3-6s: Stepping into the shaded grand iwan with velvet apricot floor diwans.",
+    "6-9s: Looking up at the gilded ajami painted ceilings of the formal qa'a hall.",
+    "9-12s: Intricate mashrabiya lattice casting morning shadows over the rose-silk bedchamber.",
+    "12-15s: Soft filtered light piercing the pierced dome of the private hammam bath."
+  ],
+  "caption": "The Ghouta of Damascus once fed the city with wild Damask roses and sweet apricots.\n\n🏛️ Style: 18th-century Damascene Courtyard House (Bayt Arabi)\n🎨 Palette: Apricot Flesh · Damask Rose Petal · Sun-ripened Apricot · Alabaster Cream · Ghouta Leaf\n🧱 Materials: Black basalt ablaq, carved cedar mashrabiya, painted ajami wood, marble\n📐 Layout: Courtyard → Iwan → Qa'a Hall → Upper Chamber → Private Hammam\n\nThe way the open iwan frames the sound of the fountain during afternoon tea is pure design perfection.\n\nWhich space would you spend your morning in: 1, 2, or 4?\n\nSave this for courtyard house inspiration, or share it with an architecture lover.\n\n💬 Comment DAMASCUS and I'll send you the hex codes + full material list.",
+  "save_share_cta": "Save this for courtyard house inspiration, or share it with an architecture lover.",
+  "dm_keyword": "DAMASCUS",
+  "hashtags": [
+    "#damascenearchitecture",
+    "#courtyardhouse",
+    "#islamicarchitecture",
+    "#traditionalvernacular",
+    "#historicalinteriors"
+  ],
+  "_model": "gemini-3.8-flash",
+  "_problems": [],
+  "image_urls": [
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post1/01-1-courtyard.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post1/02-2-iwan.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post1/03-3-qaa-hall.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post1/04-4-upper-bedchamber.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post1/05-5-private-hammam.jpg"
+  ]
+}
