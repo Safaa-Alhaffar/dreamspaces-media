@@ -1,0 +1,81 @@
+{
+  "idea_title": "Georgian Townhouse in Blackberry & Red Fox",
+  "era": "British Georgian townhouse, late 18th century",
+  "room_focus": "macro_tour of 5 interconnected spaces in a London townhouse",
+  "inspiration": "In 18th-century Britain, countryside forage harvests like wild blackberries and autumn fox hunts deeply influenced seasonal interior palettes and estate styling.",
+  "palette": [
+    {
+      "name": "Blackberry Purple",
+      "hex": "#3A1C2E"
+    },
+    {
+      "name": "Fox Rust Orange",
+      "hex": "#C85A32"
+    },
+    {
+      "name": "Clotted Cream",
+      "hex": "#F5EFEB"
+    },
+    {
+      "name": "Deep Plum",
+      "hex": "#210B17"
+    },
+    {
+      "name": "Fox Belly Buff",
+      "hex": "#D9B48F"
+    }
+  ],
+  "shots": [
+    {
+      "name": "1-staircase-hall",
+      "prompt": "An elegant 18th-century British Georgian townhouse staircase hall featuring a cantilevered Portland stone spiral staircase with intricate cast iron balustrades. Multi-pane sash windows and a semicircular transom fanlight above a dark six-panel mahogany entrance door cast soft light. The timber panelled walls are painted in warm fox rust orange with clotted cream plaster modillion cornices. A deep blackberry purple wool carpet runner with brass stair rods dresses the steps. Natural cool morning sunlight at 5200K fills the double-height space. Wide-angle shot using a 24mm lens from floor level looking up the curving stairwell, f/8 aperture, sharp focus throughout, vertical 4:5. Every step rests soundly on structural masonry walls, realistic classical architectural scale and historical proportions."
+    },
+    {
+      "name": "2-drawing-room",
+      "prompt": "A formal Georgian piano nobile drawing room with three tall timber sash windows framed by deep blackberry velvet drapes. Classical carved white Carrara marble mantelpiece houses an authentic brass basket grate fireplace. The plasterwork wall mouldings are highlighted in fox belly buff with rich deep plum accent panels. Two mahogany Chippendale armchairs are upholstered in rust orange silk damask surrounding a low tea table. Natural warm afternoon light at 4000K streams through multi-pane windows, highlighting the polished dark oak floorboards. Shot with a 35mm lens at eye level, capturing the grand room layout, f/5.6 aperture, vertical 4:5. Wall mouldings align precisely with classical proportions, non-load-bearing plaster ornament attached to rigid brick walls."
+    },
+    {
+      "name": "3-dining-room",
+      "prompt": "A sophisticated Georgian dining room with a central polished mahogany pedestal table set for dining. The walls display authentic timber dado railing and classical wall panelling painted in muted clotted cream, with deep blackberry purple silk wallpaper inserts. Surrounding the table are carved mahogany dining chairs with rust orange woven seats. A refined cast iron fireplace with a white marble surround anchors the end wall, under a decorated plaster ceiling rose. Warm ambient evening light at 3200K from a crystal chandelier creates glowing highlights on dark polished timber. Camera positioned at eye level using a 28mm lens, f/8 aperture, vertical 4:5. Doors and windows feature correct 18th-century architraves, completely structural walls with realistic dimensions."
+    },
+    {
+      "name": "4-bedroom-suite",
+      "prompt": "A serene Georgian master bedroom suite featuring a four-poster dark mahogany bed draped in rich plum velvet and lined with fox rust orange silk. A tall sash window with authentic glazing bars overlooks the garden, filtered by sheer linen curtains. The walls feature smooth plaster painted in fox belly buff with clotted cream acanthus leaf crown mouldings. Polished wide-plank pine floorboards are partially covered by a dark blackberry wool area rug. Soft morning light at 4800K enters at a gentle angle, illuminating delicate brass sconces mounted on plaster walls. Shot from a medium height using a 35mm lens, f/4 aperture, vertical 4:5. All architectural woodwork exhibits authentic 18th-century joinery and structural integrity."
+    },
+    {
+      "name": "5-garden-terrace",
+      "prompt": "A tranquil rear Georgian garden terrace paved with aged London stock brick paths and stone coping. The rear facade of the townhouse showcases red stock brickwork, white-painted sash window frames, and decorative stone quoins. Wrought iron railings painted in dark plum frame a small stone staircase leading down from the back parlour door. A rustic teak garden bench with rust orange outdoor cushions sits beside large terracotta pots planted with wild blackberry vines and lush ferns. Warm golden hour light at 3000K washes across the brick surface. Eye-level shot using a 35mm lens, f/5.6 aperture, vertical 4:5. Brickwork mortar lines are clean and structural, all railings securely anchored into stone bases."
+    }
+  ],
+  "hooks": [
+    "Georgian symmetry meets rich autumn woodland tones",
+    "Tour a 18th century London blackberry home",
+    "Classic English townhouse reimagined with fox rust"
+  ],
+  "reel_script": [
+    "0-3s: Sweeping upward shot of the Portland stone spiral staircase with blackberry carpet runner.",
+    "3-6s: Transition to the bright drawing room with sash windows and rust orange Chippendale chairs.",
+    "6-9s: Cut to the dining room showing mahogany furniture against plum wallpaper panels.",
+    "9-12s: Glide into the master bedroom focused on the mahogany four-poster bed and brass sconces.",
+    "12-15s: Finish in the peaceful rear brick terrace surrounded by wild blackberry foliage."
+  ],
+  "caption": "Georgian architects loved strict symmetry, high ceilings, and classical proportions.\n🏛️ British Georgian Townhouse, c. 1780s\n🎨 Blackberry Purple · Fox Rust Orange · Clotted Cream · Deep Plum · Fox Belly Buff\n🪵 Portland stone, mahogany joinery, stock brick, Carrara marble, silk damask\n📐 Staircase Hall → Drawing Room → Dining Room → Bedroom → Garden Terrace\nThat rich blackberry purple on the spiral staircase runner completely anchors the entrance.\nWhich space would you spend your autumn mornings in?\n\nSave this post to inspire your next architectural moodboard.\n\n💬 Comment BLACKBERRY and I'll send you the hex codes + full material list.",
+  "save_share_cta": "Save this post to inspire your next architectural moodboard.",
+  "dm_keyword": "BLACKBERRY",
+  "hashtags": [
+    "#georgianarchitecture",
+    "#townhouseinteriors",
+    "#periodhome",
+    "#classicenglishstyle",
+    "#interiorpalettes"
+  ],
+  "_model": "gemini-3.6-flash",
+  "_problems": [],
+  "image_urls": [
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post3/01-1-staircase-hall.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post3/02-2-drawing-room.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post3/03-3-dining-room.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post3/04-4-bedroom-suite.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post3/05-5-garden-terrace.jpg"
+  ]
+}
