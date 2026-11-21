@@ -1,0 +1,81 @@
+{
+  "idea_title": "Saffron & Date Palm Riad",
+  "era": "Moroccan Saadian Riad, 17th c.",
+  "room_focus": "macro_tour (courtyard, bhou reception, kitchen, ghorfa bedroom, stah terrace)",
+  "inspiration": "Saffron from Taliouine and dates from the Draa Valley have anchored southern Moroccan trading routes and palace feasts for centuries.",
+  "palette": [
+    {
+      "name": "Saffron Gold",
+      "hex": "#D99B26"
+    },
+    {
+      "name": "Date Skin Amber",
+      "hex": "#8A3319"
+    },
+    {
+      "name": "Medjool Brown",
+      "hex": "#3E1C14"
+    },
+    {
+      "name": "Palm Frond Green",
+      "hex": "#3B4F35"
+    },
+    {
+      "name": "Terracotta Wash",
+      "hex": "#C86A4B"
+    }
+  ],
+  "shots": [
+    {
+      "name": "1-courtyard",
+      "prompt": "Central open-air riad courtyard in Marrakech, open to the sky, centered around an octagonal carved marble fountain overflowing with clear water. Horseshoe arches supported by square pillars wrapped in geometric zellij tilework in saffron yellow, date amber, and palm green. Walls feature hand-chiseled yeseria plasterwork below carved cedar eaves. Potted date palms in oversized unglazed terracotta urns frame the water feature. Soft morning light at 4500K filters through the open lightwell, casting rippled water reflections onto smooth lime walls. Shot on 24mm wide angle lens, eye level at 1.5m, f/8, vertical 4:5. Every arch rests securely on masonry pillars, realistic architectural proportions."
+    },
+    {
+      "name": "2-bhou-reception",
+      "prompt": "Ground-floor bhou reception alcove opening directly onto a tiled riad courtyard. Ceiling of historic cedar wood beams painted in traditional zouak motifs with deep date brown and saffron accents. Built-in low seddari banquettes line three walls, upholstered in dark medjool brown wool with saffron-dyed woven Sabra silk cushions and amber embroidery. A low carved cedar wood tea table rests on a hand-knotted wool rug over bejmat floor tiles. Diffused courtyard bounce light at 3800K warms the polished lime tadelakt walls. Shot on 35mm lens, chest height at 1.2m, f/5.6, vertical 4:5. Open polylobed arch entry framed by load-bearing masonry walls."
+    },
+    {
+      "name": "3-kitchen",
+      "prompt": "Traditional Moroccan riad prep kitchen featuring counters sculpted from waterproof tadelakt plaster dyed in warm saffron ochre. Recessed arched pantry niches within thick structural masonry display date-amber glazed tagines, earthenware spice jars, and hand-plaited date-palm leaf baskets. A hand-hammered raw brass basin with wall-mounted unlacquered brass spout sits against a backsplash of handmade square palm-green zellij tiles. Warm tungsten niche illumination combined with indirect daylight at 3200K accents the smooth burnished surfaces. Shot on 50mm lens, waist height at 1.0m, f/4, vertical 4:5. True Moroccan masonry arch geometry, authentic artisanal details."
+    },
+    {
+      "name": "4-ghorfa-bedroom",
+      "prompt": "First-floor riad sleeping chamber with exposed cedar ceiling joists. A traditional moucharabieh turned-wood lattice bay window projects toward the courtyard, throwing geometric lace shadows across saffron-tinted tadelakt walls. A low platform bed crafted from dark cedar is dressed in unbleached linen and a heavy date-amber wool blanket with palm-green lumbar cushions. A pierced brass floor lantern projects warm amber candlelight at 2700K onto terracotta floor tiles, blending with cool daylight entering through the screen. Shot on 35mm lens, seated eye height at 1.1m, f/4, vertical 4:5. Structurally accurate historic proportions with authentic medina wall thickness."
+    },
+    {
+      "name": "5-stah-terrace",
+      "prompt": "Sunlit open-air rooftop terrace overlooking Marrakech medina clay rooftops. Floor paved in hand-pressed rectangular terracotta bejmat tiles laid in a herringbone pattern. Low parapet walls coated in sun-bleached saffron tadelakt wrap the perimeter. A rustic pergola framed in dark cedar poles and thatched with dried date-palm fronds provides dappled shade over a built-in masonry lounge lined with saffron and palm-green linen mattresses. Potted miniature date palms in clay pots stand against the low wall. Strong late-afternoon medina sun at 5200K creates bold diagonal shadows. Shot on 28mm wide lens, standing at 1.6m, f/8, vertical 4:5. Solid masonry construction."
+    }
+  ],
+  "hooks": [
+    "Marrakech riad soaked in saffron and dates",
+    "Inside an inward-facing 17th-century medina house",
+    "The warmest Moroccan palette you will ever see"
+  ],
+  "reel_script": [
+    "0-3s: The central courtyard opens to clear sky above the fountain.",
+    "3-6s: Look into the bhou, where carved cedar meets saffron silk.",
+    "6-9s: The kitchen counters are hand-burnished saffron tadelakt.",
+    "9-12s: Afternoon moucharabieh shadows lace the quiet sleeping chamber.",
+    "12-15s: Up on the roof terrace, palm fronds filter the medina sun."
+  ],
+  "caption": "Marrakech riads were historically inward-facing sanctuaries built around private family life.\n\n🏛️ Saadian-inspired Moroccan riad in the Marrakech medina\n🎨 Saffron Gold · Date Skin Amber · Medjool Brown · Palm Frond Green · Terracotta Wash\n🧱 Hand-chiseled zellij, painted cedar zouak, burnished tadelakt, unlacquered brass\n🗺️ Wast ed-dar courtyard → Reception bhou → Tadelakt kitchen → Ghorfa suite → Stah terrace\n\nThe way dappled moucharabieh shadows cut across saffron tadelakt in the afternoon is impossible to beat.\n\nWhich space would you spend your afternoon in: 1, 2, or 5?\n\nSave this for your future Moroccan travel or design moodboard.\n\n💬 Comment SAFFRON and I'll send you the hex codes + full material list.",
+  "save_share_cta": "Save this for your future Moroccan travel or design moodboard.",
+  "dm_keyword": "SAFFRON",
+  "hashtags": [
+    "#riaddecor",
+    "#moroccanarchitecture",
+    "#zellij",
+    "#tadelakt",
+    "#marrakechdesign"
+  ],
+  "_model": "gemini-3.8-flash",
+  "_problems": [],
+  "image_urls": [
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post5/01-1-courtyard.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post5/02-2-bhou-reception.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post5/03-3-kitchen.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post5/04-4-ghorfa-bedroom.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post5/05-5-stah-terrace.jpg"
+  ]
+}
