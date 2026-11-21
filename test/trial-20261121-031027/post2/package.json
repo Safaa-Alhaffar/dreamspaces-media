@@ -1,0 +1,75 @@
+{
+  "idea_title": "The Sour Cherry Yali",
+  "era": "Ottoman Bosphorus Yali, late 18th century",
+  "room_focus": "The Grand Water-Facing Basoda (Corner Reception Salon)",
+  "inspiration": "Ottoman court culture celebrated the spring tulip craze alongside the summer sour cherry harvests along the Asian shores of the Bosphorus.",
+  "palette": [
+    {
+      "name": "Sour Cherry Crimson",
+      "hex": "#721422"
+    },
+    {
+      "name": "Tulip Stamen Gold",
+      "hex": "#D8973C"
+    },
+    {
+      "name": "Blush Petal",
+      "hex": "#E6B8B8"
+    },
+    {
+      "name": "Stem Leaf Green",
+      "hex": "#4D6B53"
+    },
+    {
+      "name": "Bleached Chestnut Wood",
+      "hex": "#D1BAA3"
+    }
+  ],
+  "shots": [
+    {
+      "name": "1-wide-basoda",
+      "prompt": "Wide interior view of an Ottoman Bosphorus yali basoda corner salon hovering directly over blue seawater. Timber bagdadi lath and plaster walls with pale bleached chestnut joinery, continuous low perimeter sedir banquette wrapping beneath continuous giyotin sash windows, and an intricate citali coffered wooden ceiling with an octagonal central gobek medallion. Sour cherry crimson velvet upholstery coats the sedir, accented with blush petal silk pillows and tulip stamen gold tassels. Soft morning daylight reflects ripples from the Bosphorus at 4800K across the ceiling boards. Shot on 24mm lens at eye level seated height, f/8, vertical 4:5. Authentic 18th-century timber-framed engineering with straight load-bearing posts, realistic architectural proportions."
+    },
+    {
+      "name": "2-alternate-ocak-angle",
+      "prompt": "Medium wide interior shot looking across the same Ottoman yali basoda toward the carved fireplace ocak and built-in yukluk cupboards. Bleached chestnut wood paneling features floral kalemisi stencil paintings in stem leaf green and soft blush. The low sedir banquette extends into the corner with sour cherry velvet cushions and folded tulip gold silk throws. On the floor rests a low brass mangal brazier and hand-knotted Hereke runner rug. Diffused ambient daylight from water-facing windows mixes with warm interior glow at 4200K. Shot on 35mm lens, chest height, f/5.6, vertical 4:5. Structurally accurate Ottoman interior woodwork, flat timber floorboards, precise joinery without modern fixtures."
+    },
+    {
+      "name": "3-mid-cumba-window",
+      "prompt": "Mid eye-level shot focused on a projecting cumba bay window niche in the same Ottoman yali basoda. Three vertical sliding sash windows frame open water views, fitted with sheer voile blinds. The built-in wooden daybed features a firm mattress in deep sour cherry crimson damask with embroidered tulip motifs in stem green and tulip gold thread. A low brass sini tray table holds a fluted Pasabahce glass cup with sour cherry sherbet. Bright direct waterfront daylight at 5200K casts rippling water reflections across the paneled jambs. Shot on 50mm lens, standing height, f/4, vertical 4:5. Realistic joinery details, authentic Ottoman window proportions and moldings."
+    },
+    {
+      "name": "4-close-material-detail",
+      "prompt": "Close-up macro detail of interior craftsmanship inside the Ottoman yali basoda. Intersection of a carved bleached chestnut wall bracket with edirnekari painted scrolls in blush petal and gold leaf, meeting the textured edge of a Bursa silk velvet cushion in sour cherry crimson. Intricate raised bullion embroidery displays stylized Ottoman tulips with stem leaf green silk floss. Raking side window light at 4500K accentuates the deep pile of the velvet and chisel marks in the timber molding. Shot on 90mm macro lens, f/2.8, shallow depth of field, vertical 4:5. Crisp tactile fibers, authentic historical wood grain, zero synthetic textures."
+    }
+  ],
+  "hooks": [
+    "Ottoman waterfront living on the Bosphorus.",
+    "Sour cherry velvet meets 18th-century timber.",
+    "Inside an authentic Bosphorus yali salon."
+  ],
+  "reel_script": [
+    "0-3s: Wide view of the floating wooden salon over water ripples.",
+    "3-7s: Turn toward the carved fireplace and painted paneling.",
+    "7-11s: Settle into the water-facing cumba daybed.",
+    "11-15s: Close macro on Bursa silk velvet and carved edirnekari trim."
+  ],
+  "caption": "Bosphorus yalis were built of wood so they could sway with coastal tides instead of cracking.\n\n🏛 Style: Ottoman Bosphorus Yali (late 18th c.)\n🎨 Palette: Sour Cherry Crimson · Tulip Stamen Gold · Blush Petal · Stem Leaf Green · Bleached Chestnut Wood\n🪵 Materials: Chestnut timber framing, Bursa silk velvet, brass sini, kalemisi paint\n📐 Layout: Wide Basoda → Painted Hearth Wall → Cumba Bay Niche → Edirnekari Joinery\n\nThat deep vişne red velvet against rippling salt water completely redefines Ottoman minimalism for me.\n\nWhich view would you sit in all afternoon: 1 or 3?\n\nSave this for your historic coastal design moodboard.\n💬 Comment YALI and I'll send you the hex codes + full material list.",
+  "save_share_cta": "Save this for your historic coastal design moodboard.",
+  "dm_keyword": "YALI",
+  "hashtags": [
+    "#ottomanarchitecture",
+    "#bosphorusyali",
+    "#historichouses",
+    "#traditionaljoinery",
+    "#turkishinteriors"
+  ],
+  "_model": "gemini-3.8-flash",
+  "_problems": [],
+  "image_urls": [
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post2/01-1-wide-basoda.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post2/02-2-alternate-ocak-angle.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post2/03-3-mid-cumba-window.jpg",
+    "https://raw.githubusercontent.com/Safaa-Alhaffar/dreamspaces-media/main/test/trial-20261121-031027/post2/04-4-close-material-detail.jpg"
+  ]
+}
